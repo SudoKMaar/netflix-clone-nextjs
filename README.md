@@ -4,6 +4,8 @@
 
 This project is a Netflix clone built using Next.js, React, Tailwind CSS, Recoil, Material-UI, and Heroicons, with Firebase for authentication. The goal of this project is to recreate the user interface and functionality of the popular streaming platform Netflix. Users can browse through a list of movies and TV shows, view details about each title, watch trailers, and even sign up or log in using Firebase authentication.
 
+Deployed at [Fakeflix](https://fakeflix-kmaar.vercel.app/)
+
 ## Features
 
 - **Authentication**: Users can sign up and log in to their accounts using their email and password. Firebase handles the authentication process.
@@ -63,7 +65,7 @@ Contributions to this project are welcome! If you have any bug fixes, new featur
 
 ## Authors
 
-- [Abhishek Kumar](https://github.com/SudoKMaar)
+- [Abhishek Kumar](https://kmaar.vercel.app)
 
 ## License
 
